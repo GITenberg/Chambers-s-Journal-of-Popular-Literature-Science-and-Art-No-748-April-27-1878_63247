@@ -1,5 +1,8 @@
 _repo: Chambers-s-Journal-of-Popular-Literature-Science-and-Art-No-748-April-27-1878_63247
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63247-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5276
     wikipedia: http://en.wikipedia.org/wiki/Robert_Chambers_%28publisher_born_1802%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63247#Chambers-s-Journal-of-Popular-Literature-Science-and-Art-No-748-April-27-1878
 gutenberg_issued: '2020-09-20'
 gutenberg_type: Text
 identifiers:
